@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1030339085796",
+    "firebase_url": "https://light-chat-2eb76.firebaseio.com",
+    "project_id": "light-chat-2eb76",
+    "storage_bucket": "light-chat-2eb76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030339085796:android:9fa0a8c7fee6427d",
+        "android_client_info": {
+          "package_name": "co.TonySu.light_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030339085796-jjp35q0lbuvbf3c8891o78u0sv52sdsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfBOKW5ZZhc8BTenNf6untGeBF8M5Ia8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030339085796-jjp35q0lbuvbf3c8891o78u0sv52sdsm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1030339085796-krngefv1m6kpbildl1n63afqmb6vo3u7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.TonySu.lightChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
